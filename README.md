@@ -145,6 +145,4 @@ __DeferQualityUpdatesPeriodInDays_cis__ |"0"| CIS Value.
 
 
 # Author Information:
-Richard M. Williams
-
-rmwill@us.ibm.com
+Richard M. Williams (williamsitv@yahoo.com)
